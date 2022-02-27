@@ -1,18 +1,47 @@
-cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{0}: checkout: moving from master to develop
-cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{1}: merge develop: Fast-forward
-5bd4ee3 HEAD@{2}: checkout: moving from feature2 to master
-cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{3}: merge develop: Fast-forward
-51b16bb HEAD@{4}: checkout: moving from feature1 to feature2
-cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{5}: merge develop: Fast-forward
-1c7a29b HEAD@{6}: checkout: moving from develop to feature1
-cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{7}: commit (merge): added img\style.css
-1c7a29b HEAD@{8}: merge feature1: Fast-forward
-e3855de HEAD@{9}: checkout: moving from feature2 to develop
-51b16bb HEAD@{10}: commit: added style.css
-e3855de HEAD@{11}: checkout: moving from develop to feature2
-e3855de HEAD@{12}: checkout: moving from feature1 to develop
-1c7a29b HEAD@{13}: commit: added picture in index.html
-8cfae58 HEAD@{14}: commit: added picture
-e3855de HEAD@{15}: checkout: moving from develop to feature1
-e3855de HEAD@{16}: commit: created index.html
-5bd4ee3 HEAD@{17}: checkout: moving from master to develop
+69234c0 (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{0}: merge develop: Fast-forward
+cdaa116 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{1}: checkout: moving from develop to master
+69234c0 (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{2}: merge feature4: Fast-forward
+48f5124 (origin/feature3, feature3) HEAD@{3}: checkout: moving from feature4 to develop
+69234c0 (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{4}: checkout: moving from develop to feature4
+48f5124 (origin/feature3, feature3) HEAD@{5}: merge feature3: Fast-forward
+4715c71 HEAD@{6}: checkout: moving from feature3 to develop
+48f5124 (origin/feature3, feature3) HEAD@{7}: checkout: moving from feature4 to feature3
+69234c0 (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{8}: commit: added new picture
+48f5124 (origin/feature3, feature3) HEAD@{9}: checkout: moving from feature3 to feature4
+48f5124 (origin/feature3, feature3) HEAD@{10}: commit: added style2
+4715c71 HEAD@{11}: checkout: moving from develop to feature3
+4715c71 HEAD@{12}: commit: added reflog
+cdaa116 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{13}: checkout: moving from master to develop
+:...skipping...
+69234c0 (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{0}: merge develop: Fast-forward
+cdaa116 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{1}: checkout: moving from develop to master
+69234c0 (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{2}: merge feature4: Fast-forward
+48f5124 (origin/feature3, feature3) HEAD@{3}: checkout: moving from feature4 to develop
+69234c0 (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{4}: checkout: moving from develop to feature4
+48f5124 (origin/feature3, feature3) HEAD@{5}: merge feature3: Fast-forward
+4715c71 HEAD@{6}: checkout: moving from feature3 to develop
+48f5124 (origin/feature3, feature3) HEAD@{7}: checkout: moving from feature4 to feature3
+69234c0 (HEAD -> master, origin/master, origin/feature4, origin/develop, feature4, develop) HEAD@{8}: commit: added new picture
+48f5124 (origin/feature3, feature3) HEAD@{9}: checkout: moving from feature3 to feature4
+48f5124 (origin/feature3, feature3) HEAD@{10}: commit: added style2
+4715c71 HEAD@{11}: checkout: moving from develop to feature3
+4715c71 HEAD@{12}: commit: added reflog
+cdaa116 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{13}: checkout: moving from master to develop
+cdaa116 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{14}: merge develop: Fast-forward
+5bd4ee3 HEAD@{15}: checkout: moving from feature2 to master
+cdaa116 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{16}: merge develop: Fast-forward
+51b16bb HEAD@{17}: checkout: moving from feature1 to feature2
+cdaa116 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{18}: merge develop: Fast-forward
+1c7a29b HEAD@{19}: checkout: moving from develop to feature1
+cdaa116 (origin/feature2, origin/feature1, feature2, feature1) HEAD@{20}: commit (merge): added img\style.css
+1c7a29b HEAD@{21}: merge feature1: Fast-forward
+e3855de HEAD@{22}: checkout: moving from feature2 to develop
+51b16bb HEAD@{23}: commit: added style.css
+e3855de HEAD@{24}: checkout: moving from develop to feature2
+e3855de HEAD@{25}: checkout: moving from feature1 to develop
+1c7a29b HEAD@{26}: commit: added picture in index.html
+8cfae58 HEAD@{27}: commit: added picture
+e3855de HEAD@{28}: checkout: moving from develop to feature1
+e3855de HEAD@{29}: commit: created index.html
+5bd4ee3 HEAD@{30}: checkout: moving from master to develop
+5bd4ee3 HEAD@{31}: commit (initial): added README.md
