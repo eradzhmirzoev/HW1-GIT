@@ -1,0 +1,18 @@
+cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{0}: checkout: moving from master to develop
+cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{1}: merge develop: Fast-forward
+5bd4ee3 HEAD@{2}: checkout: moving from feature2 to master
+cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{3}: merge develop: Fast-forward
+51b16bb HEAD@{4}: checkout: moving from feature1 to feature2
+cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{5}: merge develop: Fast-forward
+1c7a29b HEAD@{6}: checkout: moving from develop to feature1
+cdaa116 (HEAD -> develop, master, feature2, feature1) HEAD@{7}: commit (merge): added img\style.css
+1c7a29b HEAD@{8}: merge feature1: Fast-forward
+e3855de HEAD@{9}: checkout: moving from feature2 to develop
+51b16bb HEAD@{10}: commit: added style.css
+e3855de HEAD@{11}: checkout: moving from develop to feature2
+e3855de HEAD@{12}: checkout: moving from feature1 to develop
+1c7a29b HEAD@{13}: commit: added picture in index.html
+8cfae58 HEAD@{14}: commit: added picture
+e3855de HEAD@{15}: checkout: moving from develop to feature1
+e3855de HEAD@{16}: commit: created index.html
+5bd4ee3 HEAD@{17}: checkout: moving from master to develop
